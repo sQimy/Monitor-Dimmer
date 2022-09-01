@@ -1,5 +1,7 @@
-# Monitor-Dimmer
+# Monitor Dimmer
 Shows an icon in the tray that allows you to change the brightness of the monitor
+
+![alt text](https://github.com/sQimy/Monitor-Dimmer/blob/main/preview.jpg?raw=true)
 
 When I migrated to Linux I was disappointed that I could not find the Monitorian utility I used on Windows to change the brightness of monitors. This forced me to create a similar one. 
 
