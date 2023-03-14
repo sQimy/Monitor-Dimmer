@@ -1,5 +1,5 @@
 # Monitor Dimmer
-Shows an icon in the tray that allows you to change the brightness of the monitor
+Shows an icon in the tray that allows you to change the brightness of the monitors
 
 ![alt text](https://github.com/sQimy/Monitor-Dimmer/blob/main/preview.jpg?raw=true)
 
